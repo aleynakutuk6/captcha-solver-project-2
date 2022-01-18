@@ -54,4 +54,5 @@ Benchmarking of training dataset in CNN models:
 
 Benchmarking of training dataset in YOLO models:
 
-![image](https://user-images.githubusercontent.com/53303474/149991263-eea874b5-86f2-4bf6-953e-d35dd79ca132.png)
+![table](https://user-images.githubusercontent.com/83013995/149996728-09d7d8ee-f741-4d21-b4ab-43a45ec43b38.PNG)
+
